@@ -1,1 +1,1 @@
-# Marketing-Analytics
+# Hands on Data Science for Marketing
