@@ -1,1 +1,2 @@
-# Marketing-Analytics
+### Product Analytics
+#### This chapter delves into analyzing product performance and customer interactions with products. It covers key metrics and analytical techniques to assess product success and identify areas for improvement. Practical examples illustrate how to conduct product analytics using data science tools.

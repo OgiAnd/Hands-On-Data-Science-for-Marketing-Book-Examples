@@ -1,0 +1,2 @@
+### Predicting Customer Engagement
+#### Examines methods to predict customer engagement with marketing campaigns. Techniques such as regression analysis and machine learning models are discussed. The chapter provides practical exercises on building and validating engagement prediction models.

@@ -1,1 +1,2 @@
-# Marketing-Analytics
+### Product Recommendation Algorithm
+#### Explores the development and implementation of product recommendation systems. The chapter discusses collaborative filtering, content-based filtering, and hybrid approaches. Hands-on exercises demonstrate how to build and evaluate recommendation algorithms to enhance customer experience.

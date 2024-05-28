@@ -1,1 +1,2 @@
-# Marketing-Analytics
+### Conversion Analysis
+#### Focuses on techniques to analyze and optimize conversion rates. The chapter discusses various models and metrics for evaluating conversion performance, such as funnel analysis and conversion attribution. Hands-on exercises demonstrate how to apply these concepts to real-world data.

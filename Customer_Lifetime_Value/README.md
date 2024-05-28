@@ -1,0 +1,2 @@
+### Customer Lifetime Value
+#### This chapter covers the concept of Customer Lifetime Value (CLV) and its importance in marketing strategy. It explains how to calculate CLV using historical data and predictive models. Practical exercises guide the reader through the process of estimating and using CLV to inform marketing decisions.

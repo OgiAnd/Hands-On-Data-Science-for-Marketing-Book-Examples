@@ -1,0 +1,2 @@
+### Customer Analytics: Understanding Customer Behavior
+#### Explores methods to analyze customer behavior using data science techniques. Topics include tracking customer journeys, identifying key behavior patterns, and using predictive models to forecast future actions. Examples show how to implement these analyses to gain insights into customer behavior.

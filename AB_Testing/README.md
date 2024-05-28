@@ -1,0 +1,2 @@
+### A/B Testing
+#### This chapter introduces A/B testing as a method to compare two versions of a marketing element to determine which performs better. It covers the design of experiments, statistical significance, and interpreting results. Practical examples illustrate how to set up and analyze A/B tests using Python.

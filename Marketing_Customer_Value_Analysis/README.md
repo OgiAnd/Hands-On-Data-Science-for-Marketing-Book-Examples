@@ -1,1 +1,2 @@
-# Marketing-Analytics
+### Marketing Customer Value Analysis
+#### Focuses on analyzing customer value to optimize marketing efforts. It introduces metrics and models to assess customer value, such as RFM (Recency, Frequency, Monetary) analysis. Hands-on examples show how to use these models to identify high-value customers and tailor marketing strategies accordingly.

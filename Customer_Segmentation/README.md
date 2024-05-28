@@ -1,0 +1,2 @@
+### Customer Segmentation
+#### Discusses various techniques for segmenting customers into distinct groups based on their characteristics and behaviors. Methods such as clustering and classification are covered, with examples of how to apply these techniques using Python. The chapter emphasizes the importance of segmentation in targeted marketing.
